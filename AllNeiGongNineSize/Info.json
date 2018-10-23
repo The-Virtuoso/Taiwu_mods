@@ -1,0 +1,8 @@
+﻿{
+    "Id": "AllNeiGongNineSize",
+    "DisplayName": "内功全属性9格",
+    "Author": "The Virtuoso",
+    "Version": "1.0.0",
+    "AssemblyName": "AllNeiGongNineSize.dll",
+    "EntryMethod": "AllNeiGongNineSize.Main.Load"
+}
